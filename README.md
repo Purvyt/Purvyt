@@ -1,14 +1,14 @@
-Star Sports-1 
+Star Plus 
+http://144.217.70.181:9587/hin2/STARPLUSHD/tracks-v1a1/mono.m3u8
 
-http://208.86.19.13:81/710.stream/index.m3u8 
 
-Star Sports Hindi 
+Star gold
 
-http://208.86.19.13:81/724.stream/index.m3u8 
+http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 
-Star Sports-2 
+Mtv beats
 
-http://208.86.19.13:81/715.stream/index.m3u8 
+ http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
 
 Star Sports-3 
 
